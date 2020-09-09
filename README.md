@@ -6,4 +6,4 @@ About me :
 
 ⌨ I'm CEO of the web agency SR Digitale
 
-💻 I'm full-stack developper (i love React & Symfony) 
+💻 I'm full-stack developer (i love React & Symfony) 
