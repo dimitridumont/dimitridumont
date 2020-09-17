@@ -5,5 +5,5 @@ I'm Dimitri Dumont. I'm a software engineer passionate about writing code. I'm i
 <br/>
 <br/>
 
-About me :
+About me :<br/>
 💻 I'm full-stack developer (React & Symfony) in the web agency SR Digitale
