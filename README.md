@@ -5,7 +5,7 @@ I'm Dimitri Dumont, a full stack developper passionate about writing clean code.
 
 ### 👨‍💻 About me
 💻 I'm full stack web developer in the web agency SR Digitale<br/>
-🏋️‍♂️ I am also passionate about bodybuilding (I get up every day at 5:00 am to go to the gym)
+🏋️‍♂️ I am also passionate about bodybuilding (I get up every day at 5:00 am to go to the gym)<br/>
 📚 I like to learn constantly and share
 <br/>
 <br/>
