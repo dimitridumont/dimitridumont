@@ -16,7 +16,7 @@ I'm Dimitri Dumont, a full stack developper passionate about writing clean code.
 <br/>
 
 ### 📖 Latests blog posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dimitridumont/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dimitridumont/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dimitridumont/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dimitridumont/1" alt="Recent Article 1">
 
 ### 🔌 Social
 <a href="https://twitter.com/dimitridumontfr/"><img src="https://img.shields.io/badge/dimitridumontfr%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
