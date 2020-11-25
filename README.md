@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Dimitri Dumont, a full stack developper passionate about writing clean code. I'm interested in craftsmanship, clean and well-designed code
+I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. I'm interested in craftsmanship, clean and well-designed code
 <br/>
 <br/>
 
 ### 👨‍💻 About me
-💻 I'm full stack web developer in the web agency SR Digitale<br/>
+💻 I'm a fullstack developer freelance<br/>
 🏋️‍♂️ I am also passionate about bodybuilding (I get up every day at 5:00 am to go to the gym)<br/>
 📚 I like to learn constantly and share
 <br/>
