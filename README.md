@@ -3,7 +3,7 @@ I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. 
 <br/>
 <br/>
 
-### 👨‍💻 About me
+### About me
 💻 I'm a fullstack developer freelance<br/>
 🏋️‍♂️ I am also passionate about bodybuilding (I get up every day at 5:00 am to go to the gym)<br/>
 📚 I like to learn constantly and share
