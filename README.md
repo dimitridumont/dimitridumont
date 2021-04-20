@@ -11,11 +11,11 @@ I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. 
 <br/>
 
 ### Technologies
-▪ Front-end : React.js | Redux | Gatsby | Next.js | TypeScript | JavaScript | HTML | CSS
-▪ Back-end : NestJS | Node.js | Express | Symfony | PHP | SQL
-▪ Versionning : GIT
-▪ API implementation: WordPress API | Stripe API | Twilio | etc.
-▪ Tests : unitaires | intégrations | end-to-end
+▪ Front-end : React.js | Redux | Gatsby | Next.js | TypeScript | JavaScript | HTML | CSS<br/><br/>
+▪ Back-end : NestJS | Node.js | Express | Symfony | PHP | SQL<br/>
+▪ Versionning : GIT<br/>
+▪ API implementation: WordPress API | Stripe API | Twilio | etc.<br/>
+▪ Tests : unitaires | intégrations | end-to-end<br/>
 ▪ Clean code, hexagonal architecture, code review
 <br/>
 <br/>
