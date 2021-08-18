@@ -15,7 +15,7 @@ I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. 
 ▪ Back-end : NestJS | Node.js | Express | Symfony | PHP | SQL<br/>
 ▪ Versionning : GIT<br/>
 ▪ API implementation: WordPress API | Stripe API | Twilio | etc.<br/>
-▪ Tests : unitaires | intégrations | end-to-end<br/>
+▪ Tests : units | integrations | end-to-end<br/>
 ▪ Clean code, hexagonal architecture, code review
 <br/>
 <br/>
