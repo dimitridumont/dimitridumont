@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. I'm interested in craftsmanship, clean and well-designed code
+I'm Dimitri Dumont, a front-end developper passionate about writing clean code. I'm interested in craftsmanship, clean and well-designed code
 <br/>
 <br/>
 
@@ -13,10 +13,11 @@ I'm Dimitri Dumont, a fullstack developper passionate about writing clean code. 
 ### Technologies
 ▪ Front-end : React.js | Redux | Gatsby | Next.js | TypeScript | JavaScript | HTML | CSS<br/>
 ▪ Back-end : NestJS | Node.js | Express | Symfony | PHP | SQL<br/>
-▪ Versionning : GIT<br/>
+▪ Versionning : Git<br/>
 ▪ API implementation: WordPress API | Stripe API | Twilio | etc.<br/>
 ▪ Tests : units | integrations | end-to-end<br/>
-▪ Clean code, hexagonal architecture, code review
+▪ Clean code, hexagonal architecture, code review<br/>
+▪ CI/CD: Github actions, Gitlab CI/CD, etc.
 <br/>
 <br/>
 
