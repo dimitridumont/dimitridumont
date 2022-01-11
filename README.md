@@ -11,8 +11,7 @@ I'm Dimitri Dumont, a front-end developper passionate about writing clean code. 
 <br/>
 
 ### Technologies
-▪ Front-end : React.js | Redux | Gatsby | Next.js | TypeScript | JavaScript | HTML | CSS<br/>
-▪ Back-end : NestJS | Node.js | Express | Symfony | PHP | SQL<br/>
+▪ Front-end : React.js | Redux | Next.js | TypeScript | JavaScript | HTML | CSS<br/>
 ▪ Versionning : Git<br/>
 ▪ API implementation: WordPress API | Stripe API | Twilio | etc.<br/>
 ▪ Tests : units | integrations | end-to-end<br/>
