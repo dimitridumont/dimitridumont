@@ -5,7 +5,8 @@ I'm Dimitri Dumont, a front-end developper passionate about writing clean code. 
 
 ### About me
 💻 I'm a front-end developer freelance<br/>
-🏋️‍♂️ I am also passionate about bodybuilding (I get up every day at 5:00 am to go to the gym)<br/>
+🏍 I am passionate about moto, specialy Harley Davidson & vintage<br/>
+🏋️‍♂️ I am also passionate about musculation<br/>
 📚 I like to learn constantly and share
 <br/>
 <br/>
