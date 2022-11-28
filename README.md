@@ -8,6 +8,7 @@ I'm Dimitri Dumont, a front-end developper passionate about writing clean code. 
 🏍 I am passionate about moto, specialy Harley Davidson & vintage<br/>
 🏋️‍♂️ I am also passionate about musculation<br/>
 📚 I like to learn constantly and share
+🌍 Laon, France
 <br/>
 <br/>
 
