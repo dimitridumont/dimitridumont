@@ -31,5 +31,5 @@ I'm Dimitri Dumont, a front-end developper passionate about writing clean code. 
 - <a href="https://www.dimitri-dumont.fr/fr/blog/ecrire-code-de-qualite-1">Clean code: writing quality code - Part 1</a>
 
 ### 🔌 Social
+<a href="https://www.linkedin.com/in/dimitri-dumont/"><img src="https://img.shields.io/badge/dimitri--dumont%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height=25/></a>
 <a href="https://twitter.com/dimitridumontfr/"><img src="https://img.shields.io/badge/dimitridumontfr%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"  height=25/></a> 
-<a href="https://www.linkedin.com/in/dimitri-dumont/"><img src="https://img.shields.io/badge/dimitri--dumont%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height=25/></a> <a href="https://medium.com/@dimitridumont"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25/></a> 
