@@ -13,13 +13,12 @@ I'm Dimitri Dumont, a front-end developper passionate about writing clean code. 
 <br/>
 
 ### Technologies
-▪ Front-end : React.js | Redux | Next.js | Typescript | Javascript | HTML | CSS<br/>
-▪ Back-end : Node.js | NestJS | SQL | Typescript | Javascript<br/>
+▪ Front-end : React.js | Redux | Next.js | Typescript | Javascript<br/>
+▪ Back-end : Node.js | SQL | Typescript<br/>
 ▪ Versionning : Git<br/>
 ▪ API implementation: Stripe | Twilio | etc.<br/>
 ▪ Tests : units | integrations | end-to-end<br/>
 ▪ DDD | CQRS | TDD | Clean code | hexagonal architecture | agility<br/>
-▪ Deployment & hosting: Netlify | Heroky | Supabase<br/>
 ▪ CI/CD: Github actions | Gitlab CI/CD
 <br/>
 <br/>
